@@ -15,6 +15,21 @@
 - 打开当前iTerm2路径在Finder中
 - 当前文件夹下快速新建文件
 
+
+
+![](img/ts.png)
+![](img/unicode.png)
+![](img/url.png)
+![](img/random.png)
+![](img/newFile.png)
+![](img/md5.png)
+![](img/all0.png)
+![](img/all1.png)
+
+
+
+![](gif.mp4)
+
 ### 依赖环境
 
 #### python3
