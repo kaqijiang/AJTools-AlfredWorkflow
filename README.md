@@ -41,6 +41,8 @@
 
  pip3 install bs4
 
+ pip3 install openai
+
 #### Sublime3 打开.bash_profile
 
 1.依赖Sublime3，需自行安装。
