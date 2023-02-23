@@ -14,6 +14,7 @@
 - 打开当前窗口在iTerm2中
 - 打开当前iTerm2路径在Finder中
 - 当前文件夹下快速新建文件
+- ChatGPT聊天
 
 
 
