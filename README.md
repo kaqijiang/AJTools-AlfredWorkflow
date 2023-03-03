@@ -1,4 +1,6 @@
 # MyToolBox
+[【推荐梯子点击直达】](https://www.hjtnt.link/auth/register?code=QRY5)
+
 我常用的工具箱，不断完善和更新Alfred Workflow。
 
 目前包含一下功能。
@@ -33,6 +35,8 @@
 
 ### 依赖环境
 
+Alfred5 + Python3
+
 #### python3
 
 依赖环境python3 没有python3的需要自行安装。
@@ -49,5 +53,11 @@
 
 
 
-[【推荐梯子点击直达】](https://www.hjtnt.link/auth/register?code=QRY5)
+### [【推荐梯子点击直达】](https://www.hjtnt.link/auth/register?code=QRY5)
+
+### 支持一下，喝杯咖啡。
+
+![zan](zan.jpg)
+
+
 
