@@ -17,8 +17,7 @@
 - 打开当前iTerm2路径在Finder中
 - 当前文件夹下快速新建文件
 - ChatGPT聊天
-
-
+- Jenkins启动停止重启
 
 ![](img/ts.png)
 ![](img/unicode.png)
@@ -29,7 +28,7 @@
 ![](img/all0.png)
 ![](img/all1.png)
 
-
+![jenkins](img/jenkins.png)
 
 ![](gif.mp4)
 
@@ -51,13 +50,17 @@ Alfred5 + Python3
 
 1.依赖Sublime3，需自行安装。
 
-
+------
 
 ### [【推荐梯子点击直达】](https://www.hjtnt.link/auth/register?code=QRY5)
 
-### 支持一下，喝杯咖啡。
+------
 
-![zan](zan.jpg)
+
+
+### 来杯咖啡，支持一下。
+
+<img src="zan.jpg" alt="zan" style="zoom:50%;" />
 
 
 
