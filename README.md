@@ -1,6 +1,6 @@
 # AJTools - 开发工具
 
-[【月租1元梯子推荐，点击直达】](https://xn--4gq62f52gdss.com/#/register?code=9mYdy88G)
+[【稳定，高速梯子推荐，点击直达】](https://www.hjtnt.link/auth/register?code=QRY5)
 
 我常用的开发工具，不断完善和更新Alfred Workflow。
 
@@ -67,7 +67,7 @@ Alfred5 + Python3
 
 ------
 
-#### [【月租1元梯子推荐，点击直达】](https://xn--4gq62f52gdss.com/#/register?code=9mYdy88G)
+#### [【稳定，高速梯子推荐，点击直达】](https://www.hjtnt.link/auth/register?code=QRY5)
 
 
  来杯咖啡，支持一下。
