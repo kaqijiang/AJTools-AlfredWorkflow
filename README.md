@@ -1,8 +1,8 @@
-# MyToolBox
+# AJTools - 开发工具
 
 [【月租1元梯子推荐，点击直达】](https://xn--4gq62f52gdss.com/#/register?code=9mYdy88G)
 
-我常用的工具箱，不断完善和更新Alfred Workflow。
+我常用的开发工具，不断完善和更新Alfred Workflow。
 
 ## 1.功能介绍
 
@@ -21,18 +21,18 @@
 - 当前文件夹下快速新建文件
 - ChatGPT聊天
 - Jenkins启动停止重启
+- 复制当前窗口目录
 
-![](img/ts.png)
-![](img/unicode.png)
-![](img/url.png)
-![](img/random.png)
-![](img/newFile.png)
-![](img/md5.png)
+![时间戳转换](img/ts.png)
+![unicode转中文](img/unicode.png)
+![URL解析](img/url.png)
+![随机密码](img/random.png)
+![快速新建文件](img/newFile.png)
+![md5](img/md5.png)
+![jenkins](img/jenkins.png)
+![复制当前窗口目录](img/ajpath.png)
 ![](img/all0.png)
 ![](img/all1.png)
-
-![jenkins](img/jenkins.png)
-
 ![](gif.mp4)
 
 ## 2.依赖环境
@@ -71,4 +71,4 @@ Alfred5 + Python3
 
  来杯咖啡，支持一下。
 
-<img src="img/zan.jpg" width="150px">
+<img src="img/zan.png" width="180px">
