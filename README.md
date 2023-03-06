@@ -73,3 +73,12 @@ Alfred5 + Python3
  来杯咖啡，支持一下。
 
 <img src="img/zan.png" width="180px">
+
+## 4.其他小众功能
+
+> AJTools-other.workflow为其他小众功能。
+
+目前包含
+
+- Wrap打开当前finder
+- AdGuard打开关闭
