@@ -1,7 +1,10 @@
 # MyToolBox
-[【推荐梯子点击直达】](https://www.hjtnt.link/auth/register?code=QRY5)
+
+[【月租1元梯子推荐，点击直达】](https://xn--4gq62f52gdss.com/#/register?code=9mYdy88G)
 
 我常用的工具箱，不断完善和更新Alfred Workflow。
+
+## 1.功能介绍
 
 目前包含一下功能。
 
@@ -32,11 +35,11 @@
 
 ![](gif.mp4)
 
-### 依赖环境
+## 2.依赖环境
 
 Alfred5 + Python3
 
-#### python3
+##### python3
 
 依赖环境python3 没有python3的需要自行安装。
 
@@ -46,21 +49,26 @@ Alfred5 + Python3
 
  pip3 install openai
 
-#### Sublime3 打开.bash_profile
+##### Sublime3 打开.bash_profile
 
 1.依赖Sublime3，需自行安装。
 
 ------
 
-### [【推荐梯子点击直达】](https://www.hjtnt.link/auth/register?code=QRY5)
+## 3.使用反馈
+
+\- Mail反馈：kaqijaing@gmail.com
+
+\- Wechat反馈:（微信骚扰较多，请备注Alfred）
+
+<img src="img/WechatIMG.jpeg" width="100px">
+
 
 ------
 
+#### [【月租1元梯子推荐，点击直达】](https://xn--4gq62f52gdss.com/#/register?code=9mYdy88G)
 
 
-### 来杯咖啡，支持一下。
+ 来杯咖啡，支持一下。
 
-<img src="zan.jpg" alt="zan" style="zoom:50%;" />
-
-
-
+<img src="img/zan.jpg" width="150px">
