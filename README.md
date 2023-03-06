@@ -22,6 +22,7 @@
 - ChatGPT聊天
 - Jenkins启动停止重启
 - 复制当前窗口目录
+- 人民币大小写转换
 
 ![时间戳转换](img/ts.png)
 ![unicode转中文](img/unicode.png)
@@ -30,7 +31,7 @@
 ![快速新建文件](img/newFile.png)
 ![md5](img/md5.png)
 ![jenkins](img/jenkins.png)
-![复制当前窗口目录](img/ajpath.png)
+![复制当前窗口目录](img/ajpath.png)![image-20230306153706037](img/rmb.png)
 ![](img/all0.png)
 ![](img/all1.png)
 ![](gif.mp4)
