@@ -82,3 +82,4 @@ Alfred5 + Python3
 
 - Wrap打开当前finder
 - AdGuard打开关闭
+- SSH登录服务器
