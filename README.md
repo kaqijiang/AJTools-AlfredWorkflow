@@ -1,6 +1,6 @@
 # AJTools - 开发工具
 
-[【稳定，高速梯子推荐56一年，活动时5折，点击直达】](https://www.hjtnt.link/auth/register?code=QRY5)
+[【稳定，高速梯子推荐56一年，活动时5折，点击直达】](https://www.hjtnt.pro/auth/register?code=QRY5)
 
 我常用的开发工具，不断完善和更新Alfred Workflow。
 
@@ -24,6 +24,7 @@
 - 复制当前窗口目录
 - 获取IP
 - 人民币大小写转换
+- 快速pod install
 
 ![时间戳转换](img/ts.png)
 ![unicode转中文](img/unicode.png)
