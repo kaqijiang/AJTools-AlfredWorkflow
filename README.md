@@ -72,10 +72,6 @@ Alfred5 + Python3
 #### [【稳定，高速梯子推荐56一年，活动时5折，点击直达】](https://www.hjtnt.link/auth/register?code=QRY5)
 
 
- 来杯咖啡，支持一下。
-
-<img src="img/zan.png" width="180px">
-
 ## 4.其他小众功能
 
 > AJTools-other.workflow为其他小众功能。
