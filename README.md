@@ -25,6 +25,10 @@
 - 获取IP
 - 人民币大小写转换
 - 快速pod install
+- SHH登录服务器
+- Port端口占用查询
+- mysql管理
+- Microsoft Edge New Bing搜索
 
 ![时间戳转换](img/ts.png)
 ![unicode转中文](img/unicode.png)
