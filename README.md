@@ -1,7 +1,5 @@
 # AJTools - 开发工具
 
-[【稳定，高速梯子推荐56一年，活动时5折，点击直达】](https://www.hjtnt.pro/auth/register?code=hwWF)
-
 我常用的开发工具，不断完善和更新Alfred Workflow。
 
 ## 1.功能介绍
