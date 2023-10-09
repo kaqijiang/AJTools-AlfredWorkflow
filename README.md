@@ -71,8 +71,6 @@ Alfred5 + Python3
 
 ------
 
-#### [【稳定，高速梯子推荐56一年，活动时5折，点击直达】](https://www.hjtnt.pro/auth/register?code=hwWF)
-
 
 ## 4.其他小众功能
 
